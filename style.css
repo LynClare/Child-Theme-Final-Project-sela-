@@ -1,0 +1,74 @@
+/*
+Theme Name: Sela
+Version: 1.0
+Description: A child theme of Sela
+Template: sela
+*/
+
+@import url("../sela/style.css");
+@import url(http://fonts.googleapis.com/css?family=Codystar);
+
+body,
+button,
+input,
+select,
+textarea {
+	color: #404040;
+	font-family: "Source Sans Pro", Arial, sans-serif;
+	font-size: 20px;
+	font-size: 1.6rem;
+	font-weight: 300;
+	line-height: 1.5;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	clear: both;
+	font-family: 'Codystar', cursive;
+	font-weight: 300;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+h1 {
+	font-size: 40px;
+	font-size: 2.4rem;
+	line-height: 1;
+	margin-bottom: 1em;
+}
+h2 {
+	font-size: 21px;
+	font-size: 2.1rem;
+	line-height: 1.1429;
+	margin-bottom: 1.1429em;
+}
+h3 {
+	font-size: 18px;
+	font-size: 1.8rem;
+	line-height: 1.3333;
+	margin-bottom: 1.333em;
+}
+h4 {
+	font-size: 16px;
+	font-size: 1.6rem;
+	line-height: 1.5;
+	margin-bottom: 1.5em;
+}
+h5 {
+	font-family: "Source Sans Pro", Arial, sans-serif;
+	font-size: 14px;
+	font-size: 1.4rem;
+	font-weight: bold;
+	line-height: 1.7143;
+	margin-bottom: 1.7143em;
+}
+h6 {
+	font-family: "Source Sans Pro", Arial, sans-serif;
+	font-size: 14px;
+	font-size: 1.4rem;
+	font-weight: bold;
+	line-height: 1.7143em;
+	margin-bottom: 1.7143em;
+}
